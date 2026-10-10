@@ -84,3 +84,14 @@ El botón verde en la sección Inicio rápido.
 ---
 
 *calm-phoenix-689 · Actualizado 2026-10-09 · Compartido bajo licencia MIT*
+
+## Related topics
+
+- [how-to-game-booster-windows-11](https://github.com/topics/how-to-game-booster-windows-11)
+- [simple-fps-booster-toolkit](https://github.com/topics/simple-fps-booster-toolkit)
+- [reduce-input-lag-guide](https://github.com/topics/reduce-input-lag-guide)
+- [fan-control-tool-open-source](https://github.com/topics/fan-control-tool-open-source)
+- [best-ssd-optimizer-free](https://github.com/topics/best-ssd-optimizer-free)
+- [quick-fix-stutter-windows-guide](https://github.com/topics/quick-fix-stutter-windows-guide)
+- [ultimate-fix-fps-windows-11-app](https://github.com/topics/ultimate-fix-fps-windows-11-app)
+- [quick-temperature-monitor-windows-11](https://github.com/topics/quick-temperature-monitor-windows-11)
